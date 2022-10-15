@@ -1,0 +1,28 @@
+.cnt {
+    width: 1340px;
+    margin: auto;
+}
+
+.box {
+    width: 884px;
+    height: 297px;
+    background-color: #6BFF9D;
+    background-image: url("/src/assets/images/computer_bg.png");
+    border-radius: 30px;
+    padding: 40px;
+}
+
+.box-title {
+    width: 397px;
+    font-size: 42px;
+}
+
+.box-text {
+    width: 357px;
+    font-size: 16px;
+}
+
+.box-link {
+    color: white;
+    text-decoration: underline;
+}

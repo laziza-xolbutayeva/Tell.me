@@ -1,0 +1,12 @@
+.cards {
+    width: 400px;
+    padding: 30px 40px;
+    border-radius: 30px;
+    font-size: 24px;
+}
+
+.cards-text {
+    padding-top: 40px;
+    width: 270px;
+    font-style: 16px;
+}

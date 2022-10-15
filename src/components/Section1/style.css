@@ -1,0 +1,26 @@
+.secWrapper {
+    height: 406px;
+    margin-top: 37px;
+    background-image: url("/src/assets/images/bg.png");
+    background-color: #FEF5E2;
+    padding-top: 60px;
+}
+
+.Sec1__title {
+    width: 498px;
+    font-size: 42px;
+    margin-bottom: 15px;
+}
+
+.Sec1__text {
+    width: 380px;
+    font-size: 16px;
+}
+
+.Sec1__btn {
+    width: 165px;
+    border-radius: 12px;
+    border: 1px solid black;
+    margin: 40px 0;
+    background-color: inherit;
+}

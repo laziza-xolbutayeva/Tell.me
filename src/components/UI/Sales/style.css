@@ -1,0 +1,32 @@
+.PhoneCard {
+    width: 287px;
+    height: 559px;
+    border-radius: 12px;
+    background-color: #F8F8F8;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.Phone-price {
+    width: 81px;
+    border-radius: 60px;
+    background-color: #1F79FF;
+    color: white;
+    border: none;
+    height: 41px;
+    margin-top: 75px;
+}
+
+.Phone-title {
+    width: 219px;
+}
+
+.Phone-title:hover {
+    color: #1F79FF;
+}
+
+.saleImg {
+    position: absolute;
+    left: 0;
+    top: 15px;
+}
