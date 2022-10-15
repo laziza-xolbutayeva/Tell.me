@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css';
 import Navbar from "./components/Navbar";
 import Sec1 from "./components/Section1";
 import Sec2 from "./components/Section2";
